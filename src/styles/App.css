@@ -9,4 +9,10 @@ button{
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-left: 2vw;
+
+} 
+.btn{
+    justify-content: center;
+    align-items: center;
 }
